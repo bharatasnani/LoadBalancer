@@ -16,7 +16,7 @@ Follow these steps to setup and run the load balancer:
 4) Run the class - LoadBalancerApplication
 
 ## Steps to test
-1) Hit the endpoint - http://localhost:<port-used>/forward/{path} to send request to loadbalancer that has to be forwarded.
+1) Hit the endpoint - http://localhost:8080/<port-used>/forward/{path} to send request to loadbalancer that has to be forwarded.
 2) You can initiate the request from multiple browsers as well.
 3) This can be tested by running the test cases.
 
